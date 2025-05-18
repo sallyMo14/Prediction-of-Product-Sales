@@ -26,3 +26,20 @@ This project explores and analyzes a retail dataset to understand the factors in
 
 * **Item_Outlet_Sales:** Sales of the item in the outlet
 
+## Visualizations & Insights
+#### Items count in each Item_type
+![Item_Type Counts](https://github.com/user-attachments/assets/1933fd17-2d39-47f5-b55d-a41445a568c2)
+
+#### Outlet Sales average for each Item_type
+![Item_Type VS Item_Outlet_Sales](https://github.com/user-attachments/assets/0eb2c974-7c6c-431a-b6f5-eff6adf63c00)
+
+#### Outlet sales average for each Outlet type
+![item outlet sales vs outlet type](https://github.com/user-attachments/assets/9a4d257f-e0d9-45b6-8f49-23f25909455e)
+
+#### correlation between numerical features
+![data corr](https://github.com/user-attachments/assets/4ff91647-84df-4dc0-98ad-5945363dc618)
+
+#### correlation between Item_mrp and Item_Outlet_Sales
+![correlation between item mrp and item outlet sales](https://github.com/user-attachments/assets/d476e591-e8e0-49a1-aa52-053372f03aa0)
+
+
